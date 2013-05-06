@@ -16,3 +16,4 @@ TODO
 -
     * Remove other comments in C-style languages ("\**\").
     * Remove comments from other programming languages.
+    * Have the user choose the output to either overwrite or another file.
